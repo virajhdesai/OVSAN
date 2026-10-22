@@ -1,0 +1,22 @@
+[
+  {
+    "id": "192380",
+    "cn": "vvargas-verotech.com",
+    "type": "OV Wildcard"
+  },
+  {
+    "id": "222955",
+    "cn": "www.pablosalazar.net",
+    "type": "OV SAN"
+  },
+  {
+    "id": "242720",
+    "cn": "igotyoucovered.site",
+    "type": "OV SAN"
+  },
+  {
+    "id": "340540",
+    "cn": "ovsan.appsec.work",
+    "type": "OV SAN"
+  }
+]

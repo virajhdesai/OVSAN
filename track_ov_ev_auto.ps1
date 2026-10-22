@@ -8,9 +8,9 @@
 .PARAMETER ConfigSection
     The credential section inside your ~/.edgerc file (e.g. "akamaio").
 .PARAMETER AccountSwitchKey
-    The Akamai Account Switch Key for multi-account management (e.g. "B-F-JOGRRP:1-8BYUX").
+    The Akamai Account Switch Key for multi-account management
 .PARAMETER ContractId
-    The Akamai Contract ID to scope the enrollment query (e.g. "ctr_F-JOGRS2").
+    The Akamai Contract ID to scope the enrollment query.
 .PARAMETER PollIntervalSeconds
     Polling interval in seconds between cycles (default: 60).
 .PARAMETER StateFile
